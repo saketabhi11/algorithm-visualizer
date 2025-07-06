@@ -55,7 +55,7 @@ Whether you're a beginner or preparing for coding interviews, this tool lets you
 | **HTML5** | Structure & layout |
 | **CSS3**  | Styling, responsiveness, animations |
 | **JavaScript (ES6+)** | App logic, data structures, visualizations |
-| **React.js** *(Optional)* | UI components & state handling (if used) |
+| **React.js** * | UI components & state handling |
 
 ---
 
